@@ -1,0 +1,6 @@
+pytest
+streamlit
+setuptools
+pandas
+tomli
+black

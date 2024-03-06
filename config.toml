@@ -1,0 +1,15 @@
+[input]
+file = 'data.csv'
+folder = 'input'
+
+[columns]
+id = 'Id Produit'
+pose = 'Notional'
+rate= 'Bond Rate'
+currency = 'Currency'
+
+[streamlit_parameters]
+page_title = 'Bonds'
+layout = 'wide'
+sidebar_state = 'collapsed'
+header = 'Portfolio'
